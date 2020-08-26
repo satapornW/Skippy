@@ -6,7 +6,7 @@
 //document.getElementsByClassName('ytp-ad-skip-button ytp-button')[0].click();
 
 
-setInterval(lookToSkip, 300);
+setInterval(lookToSkip, 400);
 
 function lookToSkip(){
 
