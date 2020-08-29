@@ -23,5 +23,4 @@ function lookToSkip(){
 		} catch(e){
 			//console.log("no ads banner yet");
 		}
-
 }
