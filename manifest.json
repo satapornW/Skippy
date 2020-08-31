@@ -1,6 +1,6 @@
 {
 	"name": "Help Skip Extensions",
-	"description" : "Base Level Extension",
+	"description" : "This extension helps you click the skip button on youtube.",
 	"version" : "0.1",
 	"manifest_version" : 2,
 	"permissions": ["activeTab"],
